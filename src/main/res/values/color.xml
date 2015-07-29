@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="themeGray">#ff8A9199</color>
+    <color name="themeLightGray">#ffeaeaea</color>
+    <color name="themeDarkGray">#ff3f434b</color>
+    <color name="themeRed">#ffCC292B</color>
+    <color name="themeBlue">#ff002E63</color>
+    <color name="themeWhite">#ffffffff</color>
+    <color name="buttonNormal">@color/themeGray</color>
+    <color name="buttonPressed">@color/themeBlue</color>
+</resources>

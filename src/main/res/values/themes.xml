@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme" parent="android:style/Theme.Black">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:buttonStyle">@style/Button</item>
+        <item name="android:windowBackground">@color/themeBlue</item>
+        <item name="android:textAppearance">@style/TextAppearance</item>
+    </style>
+</resources>

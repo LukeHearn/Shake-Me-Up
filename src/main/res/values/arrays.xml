@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="myArray">
+        <item>SHAKE SHAKE SHAKE</item>
+        <item>JUST A FEW MORE</item>
+        <item>KEEP GOING</item>
+        <item>That It?</item>
+        <item>SHAKE MORE!</item>
+    </string-array>
+</resources>

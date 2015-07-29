@@ -1,0 +1,3 @@
+C:\Users\john\Desktop\eclipse\app\build\intermediates\classes\debug
+C:\Users\john\Desktop\eclipse\app\build\intermediates\pre-dexed\debug\classes-0bfe32352d99d73b29ce01c74122d3ec20db3540.jar
+C:\Users\john\Desktop\eclipse\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-daad18b953704fb9ec87b514ba3b776b11547a7a.jar

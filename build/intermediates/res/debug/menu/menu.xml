@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:appcompat="http://schemas.android.com/apk/res-auto" >
+
+    <item
+        android:id="@+id/menu_item_new"
+        android:title="@string/menu_item_new"
+        android:icon="@drawable/new_sign"
+        appcompat:showAsAction="always">
+    </item>
+    <item
+        android:id="@+id/menu_item_save"
+        android:title="@string/menu_item_save"
+        android:icon="@drawable/glyphicons_443_floppy_disk"
+        appcompat:showAsAction="always">
+    </item>
+    <item
+        android:id="@+id/menu_item_delete"
+        android:title="@string/menu_item_delete"
+        android:icon="@drawable/glyphicons_016_bin"
+        appcompat:showAsAction="always">
+    </item>    
+    <item
+        android:id="@+id/menu_item_rate"
+        android:title="@string/menu_item_rate"
+        android:icon="@drawable/glyphicons_049_star">
+    </item>
+    <item
+        android:id="@+id/menu_item_website"
+        android:icon="@drawable/glyphicons_340_globe"
+        android:title="@string/menu_item_website">
+    </item>
+
+
+</menu><!-- From: file:/C:/Users/john/Desktop/eclipse/app/src/main/res/menu/menu.xml -->

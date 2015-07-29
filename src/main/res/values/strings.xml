@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+	<!-- Application -->
+	<color name="holo_blue_light">#ff33b5e5</color>
+	
+    <!-- Math Alarm Activity -->
+    <string name="app_name">Shake Me Up</string>
+    <string name="title_activity_set_alarms">Set Alarm</string>
+    <string name="no_alarms">No alarms are setup yet</string>
+    
+    <string name="button_new">New</string>
+    
+    <!-- Menu -->
+    <string name="menu_item_new">New</string>
+    <string name="menu_item_save">Save</string>
+    <string name="menu_item_delete">Cancel</string>    
+    <string name="menu_item_rate">Rate on App Store!</string>
+    <string name="menu_item_website">GitHub</string>
+
+    
+    <!-- Alert -->
+	<string name="_0">0</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="_7">7</string>
+    <string name="_8">8</string>
+    <string name="_9">9</string>
+    <string name="decimal_button_text">,</string>
+	<string name="clear_button_text">Clear</string>
+	<string name="minus_button_text">-</string>
+	
+	
+	<color name="title_background_color">#000000</color>
+		
+	<string name="button_delete">Delete</string>
+	<string name="ok">OK</string>
+	<string name="cancel">Cancel</string>
+    <string name="s13">SHAKE ME!!!!!!</string>
+
+</resources>

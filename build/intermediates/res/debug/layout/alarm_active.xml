@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <TableRow
+        android:id="@+id/tableRow0"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+
+        <TextView
+            android:id="@+id/textView1"
+            android:textSize="80sp"
+            android:layout_height="wrap_content"
+            android:layout_weight="20"
+            android:textColor="#ffe2f8ec"
+            android:text="@string/s13"
+            android:textAppearance="?android:attr/textAppearanceLarge"/>
+
+    </TableRow>
+</TableLayout><!-- From: file:/C:/Users/john/Desktop/eclipse/app/src/main/res/layout/alarm_active.xml -->
